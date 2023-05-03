@@ -18,16 +18,16 @@ timezone: Asia/Bangkok
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
-title: OneVZZ
-tagline: Penek Suksuda
+title: Penek
+tagline: 0x545D93C3A4D0E11D
 description: On this site we explore topics revolving around technology.
 
 # Fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://www.onevzz.com'
 github:
   username: onevzz
-#twitter:
-###username: unknown
+twitter:
+  username:
 
 social:
   # Change to your full name.
@@ -43,16 +43,16 @@ social:
     # - https://www.linkedin.com/in/username
 
 # Fill in your verification string
-#google_site_verification:
+google_site_verification:
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-#google_analytics:
-###id:
-###pv:
-#####proxy_endpoint:
-#####cache_path:
+google_analytics:
+  id:
+  pv:
+    cache_path:
+    proxy_endpoint:
 
 # Prefer color scheme setting.
 #
@@ -78,7 +78,7 @@ avatar: '/commons/avatar.png'
 # Boolean type, the global switch for ToC in posts.
 toc: true
 
-comments: false
+comments:
   active: false
   disqus:
     shortname:
@@ -96,8 +96,8 @@ comments: false
     reactions_enabled:
 
 # Self-hosted static assets, optional › https://github.com/cotes2020/chirpy-static-assets
-assets: false
-  self_host: false
+assets:
+  self_host:
     enabled: false
     env: #[development|production]
 
