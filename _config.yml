@@ -73,7 +73,7 @@ theme_mode: dark
 #img_cdn: 'https://onevzz-img.netlify.app'
 
 # The avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.png'
+avatar: '/assets/img/avatar.png'
 
 # Boolean type, the global switch for ToC in posts.
 toc: true
