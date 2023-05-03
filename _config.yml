@@ -19,7 +19,7 @@ timezone: Asia/Bangkok
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 title: Penek
-tagline: 0x545D93C3A4D0E11D
+tagline: '0x545D93C3A4D0E11D'
 description: On this site we explore topics revolving around technology.
 
 # Fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
