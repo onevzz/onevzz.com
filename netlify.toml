@@ -1,0 +1,31 @@
+[build]
+  publish = "_site"
+  command = "jekyll build"
+
+[build.environment]
+  RUBY_VERSION = "3.2.2"
+
+[[redirects]]
+  from = "http://peneksuksuda.com/*"
+  to = "https://www.onevzz.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://peneksuksuda.com/*"
+  to = "https://www.onevzz.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "http://www.peneksuksuda.com/*"
+  to = "https://www.onevzz.com/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://www.peneksuksuda.com/*"
+  to = "https://www.onevzz.com/:splat"
+  status = 301
+  force = true
+
