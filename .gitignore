@@ -1,12 +1,12 @@
 # hidden files
 .*
 !.git*
-!.editorconfig
 !.nojekyll
-!.husky
-!.commitlintrc.json
+!.editorconfig
+!.ruby-version
 !.versionrc.json
 !.stylelintrc.json
+!.commitlintrc.json
 
 # bundler cache
 _site
