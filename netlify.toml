@@ -28,4 +28,3 @@
   to = "https://www.onevzz.com/:splat"
   status = 301
   force = true
-
