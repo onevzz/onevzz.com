@@ -1,6 +1,6 @@
 # My Personal Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/642af43d-7875-4d0e-b817-4ddda1eac6c7/deploy-status)](https://app.netlify.com/sites/onevzz/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e396e867-ef2c-44c6-8424-a3a39fba5d17/deploy-status)](https://app.netlify.com/sites/onevzz/deploys)
 
 Greetings, my name is Penek Suksuda.
 A high-school student interested in Computer Science, currently preparing for University.
