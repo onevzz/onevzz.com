@@ -11,5 +11,4 @@ Email : hello@peneksuksuda.com
 
 GitHub : https://github.com/onevzz
 
-GPG KEY : 0x545D93C3A4D0E11D
-
+GPG KEY : [0x545D93C3A4D0E11D](https://raw.githubusercontent.com/onevzz/onevzz/main/onevzz.asc)

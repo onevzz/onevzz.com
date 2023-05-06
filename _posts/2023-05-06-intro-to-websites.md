@@ -26,7 +26,7 @@ we can then move on to the next topic, referencing the URL along the way.
 [HTTP](https://en.wikipedia.org/wiki/HTTP), the most common internet transfer protocol ever.
 You are even using it right now to view my website!
 Don't believe me? To know which transfer protocol you're using, simply refer to the **prefix** of a URL.
-You should see **"https://"**, indicating that you are using **HTTPS**,
+You should see **https://** , indicating that you are using **HTTPS**,
 which is a [secure extension of HTTP](https://en.wikipedia.org/wiki/HTTPS).
 
 ### HTTP Vs. HTTPS (Differences)
@@ -53,7 +53,7 @@ It is worth noting that TLS is based on the now-deprecated
 On the internet, a [domain name](https://en.wikipedia.org/wiki/Domain_name) is a string that identifies a realm of autonomy.
 Domain names are registered via a **domain name registrar**,
 which handles the registration and the assignment of IP addresses of a domain name.
-You can browse and **reserve** a domain name at any of the registrars. Notice on how I used the word "reserve"?
+You can browse and **reserve** a domain name at any of the registrars. Notice on how I used the word **reserve**?
 That's because a domain name pricing is recurring, similar to a subscription-based business model.
 If you miss a payment, that domain name will be returning to the public marketplace for further interests.
 
@@ -186,7 +186,7 @@ powered by Jekyll (a Static Site Generator written in Ruby), hosted on GitHub an
   status = 301
   force = true
 ```
-_My Netlify Configuration File_
+**My Netlify Configuration File**
 
 All I have to pay for is my domain names, 20 USD per year (I have two of them connected to my website).
 For more information regarding my website, [the source code is available on GitHub](https://github.com/onevzz/onevzz.com).
