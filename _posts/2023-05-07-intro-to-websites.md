@@ -1,6 +1,6 @@
 ---
 title: Intro to Websites
-date: 2023-05-06 20:00:00 +0700
+date: 2023-05-07 20:00:00 +0700
 categories: [Articles, Technology]
 tags: [technology]
 ---
@@ -16,18 +16,18 @@ feel free to skip this one. But for those of you still interested, buckle up, an
 ![The Anatomy of URLs](/assets/img/illustrations/url.png)
 _The Anatomy of URLs_
 
-It's hard to get started on anything without first understanding [URLs](https://en.wikipedia.org/wiki/URL).
+It's hard to get started on anything without first understanding **URLs**.
 On the internet, a URL is a string that identifies its location on a computer network,
 similar to how your home address identifies itself. Now that we've declared the meaning of a URL,
 we can then move on to the next topic, referencing the URL along the way.
 
 ## 2 Hypertext Transfer Protocol
 
-[HTTP](https://en.wikipedia.org/wiki/HTTP), the most common internet transfer protocol ever.
+**HTTP**, the most common internet transfer protocol ever.
 You are even using it right now to view my website!
 Don't believe me? To know which transfer protocol you're using, simply refer to the **prefix** of a URL.
 You should see **https://** , indicating that you are using **HTTPS**,
-which is a [secure extension of HTTP](https://en.wikipedia.org/wiki/HTTPS).
+which is a **secure extension of HTTP**.
 
 ### HTTP Vs. HTTPS (Differences)
 
@@ -43,14 +43,14 @@ but don't exactly know that you're reading this exact article, provided that you
 
 ### Transport Layer Security (TLS)
 
-[TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) is a cryptographic protocol that is used in securing modern HTTPS.
-It utilizes several cryptography concepts, such as the use of [certificates](https://en.wikipedia.org/wiki/Public_key_certificate).
+**TLS** is a cryptographic protocol that is used in securing modern HTTPS.
+It utilizes several cryptography concepts, such as the use of **certificates**.
 It is worth noting that TLS is based on the now-deprecated
-[SSL (Secure Sockets Layer)](https://en.wikipedia.org/wiki/Secure_Sockets_Layer) protocol.
+**SSL (Secure Sockets Layer)** protocol.
 
 ## 3 Domain Name
 
-On the internet, a [domain name](https://en.wikipedia.org/wiki/Domain_name) is a string that identifies a realm of autonomy.
+On the internet, a **domain name** is a string that identifies a realm of autonomy.
 Domain names are registered via a **domain name registrar**,
 which handles the registration and the assignment of IP addresses of a domain name.
 You can browse and **reserve** a domain name at any of the registrars. Notice on how I used the word **reserve**?
@@ -74,8 +74,7 @@ Wrong! Dotcom domains are one of the cheapest out there. Others may be priced as
 
 ## 4 Name Server
 
-A [name server](https://en.wikipedia.org/wiki/Domain_Name_System)
-serves the translation of domain names into corresponding IP addresses.
+A **name server** serves the translation of domain names into corresponding IP addresses.
 It stores the **DNS records**, which are instruction files providing the corresponding IP addresses.
 Most domain name registrar offers their own name server, but you can always use a different provider if you want.
 Here is where you'll manage your domains, such as setting up subdomains and managing IP addresses.
@@ -85,7 +84,7 @@ Here is where you'll manage your domains, such as setting up subdomains and mana
 
 ## 5 Web Server
 
-A [web server](https://en.wikipedia.org/wiki/Web_server) hosts the website for you, simple as that.
+A **web server** hosts the website for you, simple as that.
 
 ## Creating your own website
 
