@@ -1,8 +1,8 @@
 ---
 title: Intro to Websites
-date: 2023-05-07 20:00:00 +0700
-categories: [Articles, Technology]
-tags: [technology]
+date: 2023-05-08 20:00:00 +0700
+categories: [Articles, Technical]
+tags: [technical]
 ---
 
 Have you ever wondered how websites work?
