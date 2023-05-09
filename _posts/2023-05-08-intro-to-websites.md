@@ -92,7 +92,7 @@ Let's say that you wanted to create your own website, but don't exactly know whe
 This section will provide you some options to consider, starting from the easiest to hardest.
 But please keep in mind that *harder does not necessary mean cheaper*.
 
-> In this section I'll be listing a bunch of commercial solutions as an example only. (Not Sponsered)
+> In this section I'll be listing a bunch of commercial solutions as an example only. (Not Sponsored)
 {: .prompt-info }
 
 ### Knowledge In Action!
@@ -141,7 +141,7 @@ But if you don't care about having your own domain name, all of it is literally 
 ### 4 Self-Hosting
 
 The most advanced solution, is self-hosting. Whether you're self-hosting on your laptop at home or
-using a Virtual Private Server (VPS) online. There are a lot of technical knowledge required.
+using a Virtual Private Server (VPS) online. There is a lot of technical knowledge required.
 Typical setup will involve running and configuring your web server (such as NGINX)
 through a reverse proxy (for HTTPS) on a Linux system (like Debian).
 
