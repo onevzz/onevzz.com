@@ -1,8 +1,8 @@
 ---
 title: Frank, the Defender!
 date: 2023-05-10 20:00:00 +0700
-categories: [Miscellaneous, Nonsensical]
-tags: [nonsensical]
+categories: [Nonsense]
+tags: [nonsense]
 image:
   path: /assets/img/photographs/frank.jpg
   alt: Frank capturing a wild cockroach
