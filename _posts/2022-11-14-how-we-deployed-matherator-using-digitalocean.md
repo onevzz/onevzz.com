@@ -8,7 +8,7 @@ image:
   alt: An ESMTE collaboration project (Thailand)
 ---
 
-# Initial Setup
+## Initial Setup
 
 Before we can do any real work, we have to setup our VPS and DNS Records first.
 With DigitalOcean, we can use their 1-Click App to help deploy our rails app easily.
@@ -17,7 +17,7 @@ point your DNS Address Records to the specified IP Address.
 Make sure to point both your Apex Domain and www Subdomain, simply to be cultural.
 With all of the above ready, you should be able to SSH into your brand new server.
 
-# 1 Update the server
+## 1 Update the server
 
 In our experiences, it is best to restart the VPS first before running any additional commands,
 such as updating. On Ubuntu, we use the following commands:
@@ -33,7 +33,7 @@ apt upgrade
 systemctl reboot
 ```
 
-# 2 Configure Rails Parameters
+## 2 Configure Rails Parameters
 
 We have to modify both our path for the default rails app and our rails working directory.
 In this case, we prefer to use Vim as our standard editor, so make edits as follows.
@@ -46,14 +46,14 @@ _/etc/nginx/sites-available/rails_
 ![/etc/systemd/system/rails.service](/assets/img/screenshots/matherator/2022-11-13-144710.png)
 _/etc/systemd/system/rails.service_
 
-# 3 Configure Rails User
+## 3 Configure Rails User
 
 To give rails user the permissions they needed, add them to the group sudo.
 After that, run **sudo -i -u rails**:
 
 ![Add them to the group sudo](/assets/img/screenshots/matherator/2022-11-13-142059.png)
 
-# 4 Clone Software Repository
+## 4 Clone Software Repository
 
 Clone our desired software repository into our home folder, Matherator in this case.
 
@@ -63,7 +63,7 @@ Then, give the project read and write permissions.
 
 ![Give the project read and write permissions](/assets/img/screenshots/matherator/2022-11-13-142330.png)
 
-# 5 Install Ruby and Bundler Packages
+## 5 Install Ruby and Bundler Packages
 
 Go into our project and do an RVM Install.
 
@@ -73,7 +73,7 @@ Then, install bundler and all of the remaining packages.
 
 ![Install bundler and all of the remaining packages](/assets/img/screenshots/matherator/2022-11-13-142712.png)
 
-# 6 Create and Migrate Databases
+## 6 Create and Migrate Databases
 
 As with any other web application, we need to create and migrate databases.
 
@@ -83,7 +83,7 @@ Then, proceed to restart the server, since there are a lot of changes being made
 
 ![Restart the server](/assets/img/screenshots/matherator/2022-11-13-142953.png)
 
-# 7 Allow requests from the domain
+## 7 Allow requests from the domain
 
 If we try accessing our application through the domain, an error will show up,
 indicating that the hosts are blocked.
@@ -113,7 +113,7 @@ But there's still one little problem...
 Our connection to the application is not secure, meaning that it is unencrypted.
 So Let's Encrypt, shall we? (Pun Intended)
 
-# 8 Encrypting the connection with Certbot
+## 8 Encrypting the connection with Certbot
 
 "Certbot is a tool that automates the process of getting a signed certificate
 via Let’s Encrypt to use with TLS" (Edward Angert). Start by initializing one with the following command:
