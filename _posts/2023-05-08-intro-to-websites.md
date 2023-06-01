@@ -1,5 +1,5 @@
 ---
-title: Intro to Websites
+title: Intro to websites
 date: 2023-05-08 20:00:00 +0700
 categories: [Articles, Technical]
 tags: [technical]
