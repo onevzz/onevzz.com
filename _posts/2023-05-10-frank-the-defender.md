@@ -1,5 +1,5 @@
 ---
-title: Frank, the Defender!
+title: Frank, the defender!
 date: 2023-05-10 20:00:00 +0700
 categories: [Nonsense]
 tags: [nonsense]
