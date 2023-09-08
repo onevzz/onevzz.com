@@ -8,6 +8,10 @@ image:
   alt: An ESMTE collaboration project (Thailand)
 ---
 
+## For Context
+
+[Matherator](https://github.com/onevzz/matherator) is part of an ESMTE collaboration project we did back in high school. It is a web-application based on Ruby on Rails that allows the user to generate basic mathematical problems instantly. Given that the user had supplied the application with the necessary templates and equations.
+
 ## Initial Setup
 
 Before we can do any real work, we have to setup our VPS and DNS Records first.
