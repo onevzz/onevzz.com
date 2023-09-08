@@ -4,7 +4,7 @@
 
 Link : https://onevzz.com
 
-Greetings, my name is Penek Suksuda.
+Hi there! My name is Penek Suksuda.
 A university student majoring in Computer Science, fanatically.
 My ultimate goal is to work on projects that is beneficial to both me and everyone.
 If you do want to get in touch with me for whatever reason, please do so over email.
