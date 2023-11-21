@@ -61,10 +61,10 @@ but they're nothing compared to what he did. He structured the entire project an
 while also keeping up with the grinding subjects of our freshmen year, absolute chad.
 I'm forever grateful for what he did, and hope that he gets to live the happiest meaningful life ever.
 
-## How is university?
+## So how is university?
 
 Having to study for exams with projects on the fly is a lot harder than what I initially thought.
-While it may not be as hard as it should be for me, beacause hehe **withdrawal!**,
+While it may not be as hard as it should be for me, because hehe **withdrawal!**,
 but I reckon that it's hard nonetheless. So, thumbs up to my friends who are still doing fine.
 Because university is one hell of a beach, and that I should go to sleep now. Goodnight! Stay cool!
 
