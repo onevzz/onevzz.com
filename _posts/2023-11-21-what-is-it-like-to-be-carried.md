@@ -38,7 +38,7 @@ And now that we have established the term, let's move on to meeting our highligh
 _Look at them go!_
 
 **The MIGHTINESS that Ton Kla has cannot be explained by words.**
-Even ones like **superb**, **sublime** just couldn't cut it.
+Even ones like **superb** and **sublime** just couldn't cut it.
 He is simply **legendary**. It seems like this dude could do anything to the exponent of mine.
 He knows everything and can do anything, and so is his glorious white owl sitting on his head.
 All of these aside, he is one great person. He carried me throughout the whole thing!
@@ -61,7 +61,7 @@ but they're nothing compared to what he did. He structured the entire project an
 while also keeping up with the grinding subjects of our freshmen year, absolute chad.
 I'm forever grateful for what he did, and hope that he gets to live the happiest meaningful life ever.
 
-## University is wild
+## How is university?
 
 Having to study for exams with projects on the fly is a lot harder than what I initially thought.
 While it may not be as hard as it should be for me, beacause hehe **withdrawal!**,
