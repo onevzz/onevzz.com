@@ -12,12 +12,12 @@ Ever since I got into university, things never cease to amaze me.
 Whether that be the people here or the time and place that I have to adjust to.
 But one thing is clear here, people around me are fucking wild.
 I have seen someone working a **full-time job** as a software developer
-alongside with being an undergraduate student in computer science.
+alongside with being an undergraduate student in computer science, and
 I have seen people who participated in multiple "Hackathons" while studying.
-And I have seen people who are just great at what they do.
+To put it simply, people around me are just great at what they do.
 Some could even assist a professor in teaching programming in Python,
 and by "assisting" I meant that they could teach throughout the entire session.
-How do I know it, you may ask. Because I have seen one that did exactly that.
+How do I know that, you may ask. Because I have seen one that did exactly that.
 We are still in our **freshmen** year, mind you.
 I felt like I just couldn't keep up with the people around me.
 Knowing how to code up a web application with a database seems to be the minimum here.
