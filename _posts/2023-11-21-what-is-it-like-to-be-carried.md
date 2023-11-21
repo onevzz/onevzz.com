@@ -37,7 +37,7 @@ And now that we have established the term, let's move on to meeting our highligh
 ![THE LEGEND HIMSELF](/assets/img/illustrations/katoeiei.jpg)
 _Look at them go!_
 
-The MIGHTINESS that Ton Kla has cannot be explained by words.
+**The MIGHTINESS that Ton Kla has cannot be explained by words.**
 Even ones like **superb**, **sublime** just couldn't cut it.
 He is simply **legendary**. It seems like this dude could do anything to the exponent of mine.
 He knows everything and can do anything, and so is his glorious white owl sitting on his head.
@@ -49,7 +49,7 @@ Wait, you got no context? Well, how about me showing you what that "thing" is.
 ![GENERATE TIMETABLES!](/assets/img/screenshots/cucalen.png)
 _The Generate Timetables feature of the app_
 
-CU CALENDAR is a calendar web application that is intended to be used by the students at our university.
+**CU CALENDAR** is a calendar web application that is intended to be used by the students at our university.
 Anything a standard calendar app could do, this app could do too, plus many more handy features for students,
 like automatically pulling your schedule based on your course list from the university's official site.
 But one killer feature of it is the ability to generate all possible timetables of any given course list.
@@ -63,7 +63,7 @@ I'm forever grateful for what he did, and hope that he gets to live the happiest
 
 ## University is wild
 
-Man, university is wild.
+**Man, university is wild.**
 Having to study for exams with projects on the fly is a lot harder than what I initially thought.
 While it may not be as hard as it should be for me, beacause hehe.... **withdrawal**,
 but I reckon that it's hard nonetheless. So, thumbs up to my friends who are still doing fine.
